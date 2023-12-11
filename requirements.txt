@@ -1,0 +1,6 @@
+openai==0.28.0
+gradio==4.8.0
+pyttsx3==2.90
+SpeechRecognition==3.10.1
+PyAudio==0.2.14
+python-dotenv==1.0.0
